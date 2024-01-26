@@ -8,7 +8,6 @@ Tables:
 
 |Case Study Title|Solution|
 |---|---|
-|Analyzing Students' Mental Health in SQL   |Link:
-[Datacamp](hhttps://projects.datacamp.com/projects/1593"DataCamp")   |
+|Analyzing Students' Mental Health in SQL   |Link:[Datacamp](hhttps://projects.datacamp.com/projects/1593"DataCamp")   |
 
 ***
